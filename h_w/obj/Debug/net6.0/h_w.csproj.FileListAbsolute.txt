@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\C#\h_w\bin\Debug\net6.0\h_w.exe
+C:\Users\Administrator\Desktop\C#\h_w\bin\Debug\net6.0\h_w.deps.json
+C:\Users\Administrator\Desktop\C#\h_w\bin\Debug\net6.0\h_w.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#\h_w\bin\Debug\net6.0\h_w.dll
+C:\Users\Administrator\Desktop\C#\h_w\bin\Debug\net6.0\h_w.pdb
+C:\Users\Administrator\Desktop\C#\h_w\obj\Debug\net6.0\h_w.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\h_w\obj\Debug\net6.0\h_w.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#\h_w\obj\Debug\net6.0\h_w.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#\h_w\obj\Debug\net6.0\h_w.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#\h_w\obj\Debug\net6.0\h_w.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\h_w\obj\Debug\net6.0\h_w.dll
+C:\Users\Administrator\Desktop\C#\h_w\obj\Debug\net6.0\refint\h_w.dll
+C:\Users\Administrator\Desktop\C#\h_w\obj\Debug\net6.0\h_w.pdb
+C:\Users\Administrator\Desktop\C#\h_w\obj\Debug\net6.0\h_w.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C#\h_w\obj\Debug\net6.0\ref\h_w.dll
