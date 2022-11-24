@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\C#\h_w4\bin\Debug\net6.0\h_w4.exe
+C:\Users\Administrator\Desktop\C#\h_w4\bin\Debug\net6.0\h_w4.deps.json
+C:\Users\Administrator\Desktop\C#\h_w4\bin\Debug\net6.0\h_w4.runtimeconfig.json
+C:\Users\Administrator\Desktop\C#\h_w4\bin\Debug\net6.0\h_w4.dll
+C:\Users\Administrator\Desktop\C#\h_w4\bin\Debug\net6.0\h_w4.pdb
+C:\Users\Administrator\Desktop\C#\h_w4\obj\Debug\net6.0\h_w4.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\C#\h_w4\obj\Debug\net6.0\h_w4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\C#\h_w4\obj\Debug\net6.0\h_w4.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\C#\h_w4\obj\Debug\net6.0\h_w4.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\C#\h_w4\obj\Debug\net6.0\h_w4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\C#\h_w4\obj\Debug\net6.0\h_w4.dll
+C:\Users\Administrator\Desktop\C#\h_w4\obj\Debug\net6.0\refint\h_w4.dll
+C:\Users\Administrator\Desktop\C#\h_w4\obj\Debug\net6.0\h_w4.pdb
+C:\Users\Administrator\Desktop\C#\h_w4\obj\Debug\net6.0\h_w4.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\C#\h_w4\obj\Debug\net6.0\ref\h_w4.dll
